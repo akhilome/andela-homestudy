@@ -14,25 +14,25 @@ As previously stated, this is the Javascript-focussed version of the curriculum.
 
 In this module, we will introduce basic computer science concepts. We will cover all the areas required to get you to the point of understanding what a computer scientist does.
 
-* [ ] [What is Comp. Sci.](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
+* [x] [What is Comp. Sci.](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsComputerScience.html)
     
-* [ ] [40 key Computer Science Concepts Explained in Layman Terms](http://carlcheo.com/compsci)
+* [x] [40 key Computer Science Concepts Explained in Layman Terms](http://carlcheo.com/compsci)
 
 ## Intro to Programming
 
 Computer programming is the act of writing a sequence of instructions to a computer to perform a specific task. This module will cover the basics of programming and provide an overview of computer programming.
 
-* [ ] [What is Programming](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html)
+* [x] [What is Programming](http://interactivepython.org/courselib/static/pythonds/Introduction/WhatIsProgramming.html)
 
-* [ ] [Computer Programming Overview](http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm)
+* [x] [Computer Programming Overview](http://www.tutorialspoint.com/computer_programming/computer_programming_overview.htm)
 
-* [ ] [Computer Programming Basics](http://www.tutorialspoint.com/computer_programming/computer_programming_basics.htm)
+* [x] [Computer Programming Basics](http://www.tutorialspoint.com/computer_programming/computer_programming_basics.htm)
 
-* [ ] [Computer Programming Environment](http://www.tutorialspoint.com/computer_programming/computer_programming_environment.htm)
+* [x] [Computer Programming Environment](http://www.tutorialspoint.com/computer_programming/computer_programming_environment.htm)
 
-* [ ] [Codecademy JavaScript Course](https://www.codecademy.com/learn/learn-javascript)
+* [x] [Codecademy JavaScript Course](https://www.codecademy.com/learn/learn-javascript)
 
-* [ ] [MDN JavaScript Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+* [x] [MDN JavaScript Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 
 * [ ] [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
