@@ -48,7 +48,7 @@ Object oriented programming is a paradigm and a way of thinking that helps progr
 
 * [x] [JavaScript Classes](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes)
 
-* [ ] [A Deep Dive Into ES6 Classes](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+* [x] [A Deep Dive Into ES6 Classes](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
 
 ## Data Structures
 
@@ -68,9 +68,9 @@ A data structure is a logical concept that introduces a way to organize data so 
 
 Computer scientists learn by experience. We learn by seeing other people solve problems and by solving problems ourselves. Exposing us to different problem-solving techniques and seeing how algorithms are designed helps us take on challenging problems.
 
-* [ ] [Learning Algorithms from Scratch](http://adrianmejia.com/blog/2011/12/22/learning-algorithms-from-scratch-algorithms-for-dummies/)
+* [x] [Learning Algorithms from Scratch](http://adrianmejia.com/blog/2011/12/22/learning-algorithms-from-scratch-algorithms-for-dummies/)
 
-* [ ] [Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
+* [x] [Algorithms for Beginners](https://medium.com/yay-its-erica/algorithms-for-beginners-bubble-sort-insertion-sort-merge-sort-29bd5506cc48)
 
 * [ ] [The Importance of Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/)
 
