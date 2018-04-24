@@ -106,11 +106,11 @@ In this module, we will introduce algorithms for sorting and searching.
 
 This module will cover all the phases of software development. Starting from software requirement analysis, to design, to implementation, to testing, to deployment and finally to maintenance.
 
-* [ ] [Software Engineering Overview](http://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm)
+* [x] [Software Engineering Overview](http://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm)
 
-* [ ] [What Does A Computer Software Engineer Do?](http://tryengineering.org/ask-expert/what-does-computer-software-engineer-do-could-you-give-me-description-field)
+* [x] [What Does A Computer Software Engineer Do?](http://tryengineering.org/ask-expert/what-does-computer-software-engineer-do-could-you-give-me-description-field)
 
-* [ ] [Software Development Life Cycle Overview](http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm)
+* [x] [Software Development Life Cycle Overview](http://www.tutorialspoint.com/sdlc/sdlc_quick_guide.htm)
 
 ## The Internet
 
