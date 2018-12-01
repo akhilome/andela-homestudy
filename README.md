@@ -1,3 +1,9 @@
+# Important Notice
+
+Since creating this repo back in April (2018), Andela has revamped and improved their homestudy curriculum, adding more resources which they believe will help one level up enough to become fit for the fellowship's bootcamp. Please endevour to make use of the [updated Homestudy Curriculum](http://github.andela.com/homestudy/).
+
+_Deprecated curriculum continued below ..._
+
 # Andela (Nigeria) Cycle 32 Home Study Curriculum (Javascript).
 
 This md contains the Javascript-centric version of the Andela Nigeria Homestudy Curriculum for cohort recruitment cycle 32.
